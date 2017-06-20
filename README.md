@@ -2,7 +2,7 @@
 Make a Programmer's Life A Living Hell
 # Usage
 Hellify makes a programmer's life hell. It takes lots of important characters in most programming languages
-and replaces them with their homoglyphic equivelent. This will cause compilers to throw all sorts of errors
+and replaces them with their homoglyphic equivelents. This will cause compilers to throw all sorts of errors
 even if the syntax looks completely correct. Please don't hurt me for making this.
 
 The syntax of hellify as follows:
