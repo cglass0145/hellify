@@ -9,8 +9,9 @@ The syntax of hellify as follows:
 
 hellify.py [-h] file
 
-The -h argument will display a help message
-The file argument will take an input file to replace characters in
+The -h argument will display a help message.
+
+The file argument will take an input file to replace characters in.
 
 # How it Works
 Hellify is a Python script that uses Perl regex to find and replace characters in a given input file.
