@@ -44,6 +44,9 @@ def main():
 	print "[+] Replacing all commas...",
 	os.system("perl -pi -e 's/\,/‚/g' "+args.file)
 	print "done."
+	print "[+] Replacing all semicolons...",
+	os.system("perl -pi -e 's/\;/;/g' "+args.file)
+	print "done."
 	print bcolors.ENDC
 if __name__=="__main__":
 	try:
